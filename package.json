@@ -1,7 +1,4 @@
 {
   "name": "json-to-csv",
-  "packageManager": "yarn@3.2.1",
-  "dependencies": {
-    "json-2-csv": "^3.17.1"
-  }
+  "packageManager": "yarn@3.2.1"
 }
