@@ -1,0 +1,17 @@
+# Node artifact files
+node_modules/
+
+# Yarn artifact files
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Runtime folders
+input/*
+!input/placeholder.txt
+output/*
+!output/placeholder.txt
