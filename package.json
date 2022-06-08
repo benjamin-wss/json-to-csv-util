@@ -1,4 +1,12 @@
 {
-  "name": "json-to-csv",
-  "packageManager": "yarn@3.2.1"
+  "name": "json-to-csv-util",
+  "packageManager": "yarn@3.2.1",
+  "main": "app.js",
+  "dependencies": {
+    "fs-extra": "~10.1.0",
+    "json-2-csv": "~3.17.1"
+  },
+  "scripts": {
+    "start": "node ."
+  }
 }
